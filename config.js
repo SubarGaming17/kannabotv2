@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/subar_gaming_17'
+global.sgh = 'https://github.com/SubarGaming17'
+global.sgc = 'https://chat.whatsapp.com/GTcVDY465eVJg9XP2VvPKM'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '085856575305'
+global.povo = '085856575305'
+global.pgopay = '085856575305'
+global.ppulsa = '087755567549'
+global.ppulsa2 = '085856575305'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6287755567549'
+global.nomorown = '6285856575305'
+global.namebot = 'SubarBotz'
+global.nameown = 'SubarGanzz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6285856575305'],
+  ['6285856575305'],
+  ['6287755567549'],
+  ['6285856575305', 'SubarGanzz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,17 +115,17 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = global.wm
+global.wm = '                「 SubarBotz あ⁩ 」' //Main Watermark
+global.wm2 = 'SubarBotzあ⁩'
+global.wm3 = 'SubarBotzあ⁩'
+global.botdate = `SubarBotzあ⁩: ${week} ${date}`
+global.bottime = `SubarBotzあ⁩ : ${wktuwib}`
+global.titlebot = 'あ🔥 ┊ SubarGanzzあ⁩'
+global.author = SubarGanzz.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
+global.thumb = 'thumbnail.jpg' //Main Thumbnail
 global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
 global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
@@ -173,8 +173,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = 'SubarBotzあ⁩'
+global.stickauth = `SubarGanzzあ⁩\nwa.me/6285856575305${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
@@ -187,7 +187,7 @@ global.rpg = {
       limit: '🎫',
       health: '❤️',
       exp: '✨',
-      money: '💹',
+      money: '💹', 
       bank: '🏦',
       potion: '🥤',
       diamond: '💎',
