@@ -121,7 +121,7 @@ global.wm3 = 'SubarBotzあ⁩'
 global.botdate = `SubarBotzあ⁩: ${week} ${date}`
 global.bottime = `SubarBotzあ⁩ : ${wktuwib}`
 global.titlebot = 'あ🔥 ┊ SubarGanzzあ⁩'
-global.author = SubarGanzz.wm
+global.author = SubarGanzz
 
 
 /*============== LOGO ==============*/
